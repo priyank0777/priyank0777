@@ -77,8 +77,6 @@
 ###
 
 ###
-<h2 align="left">Socials :^)</h2><br><br>
-
 
 <div align="left">
   <a href="www.linkedin.com/in/priyank0777" target="_blank">
