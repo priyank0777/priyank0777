@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">TECH STACK :^)</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
@@ -72,9 +76,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/Bpi7bVwAJ7Fyrlv3Tv/giphy.gif?cid=790b7611qgatzjcsuomdic3rm3nj01k99r0ohqyqxnz9si7c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /><br><br>
-
-###
+<p align="left">LET'S CONNECT  :^)</p>
 
 ###
 
@@ -94,11 +96,8 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake.svg" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/priyank0777/priyank0777/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -117,4 +116,9 @@
 
 <p align="left">Likes & Hobbies:<br><br>🎮 Favorite Games: Valorant and Forza Horizon 5<br><br>⚽ Favorite Sport: Football<br><br>📺 Love to watch anime, especially Jujutsu Kaisen (JJK). Big Gojo fan!<br><br>🏴‍☠️ Enjoy solving Capture the Flag challenges :^)<br><br>🤫 I am an introvert</p>
 
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/Bpi7bVwAJ7Fyrlv3Tv/giphy.gif?cid=790b7611qgatzjcsuomdic3rm3nj01k99r0ohqyqxnz9si7c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
 
