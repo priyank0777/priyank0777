@@ -92,8 +92,11 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/priyank0777/priyank0777/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -112,9 +115,4 @@
 
 <p align="left">Likes & Hobbies:<br><br>🎮 Favorite Games: Valorant and Forza Horizon 5<br><br>⚽ Favorite Sport: Football<br><br>📺 Love to watch anime, especially Jujutsu Kaisen (JJK). Big Gojo fan!<br><br>🏴‍☠️ Enjoy solving Capture the Flag challenges :^)<br><br>🤫 I am an introvert</p>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
