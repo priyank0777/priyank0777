@@ -3,6 +3,10 @@
 
 ###
 
+<p align="left">TECH STACK :^)</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
@@ -73,18 +77,18 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/Bpi7bVwAJ7Fyrlv3Tv/giphy.gif?cid=790b7611qgatzjcsuomdic3rm3nj01k99r0ohqyqxnz9si7c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<p align="left">LET'S CONNECT  :^)</p>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/priyank0777" target="_blank">
+  <a href="https://www.linkedin.com/in/priyank0777" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/priyank_truestar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="priyank0777coding@gmail.com" target="_blank">
+  <a href="https://priyank0777coding@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/priyank_0777code" target="_blank">
@@ -94,7 +98,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/priyank0777/priyank0777/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/priyank0777/priyank0777/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -111,6 +119,11 @@
 
 ###
 
-<p align="left">Likes & Hobbies:<br><br>🎮 Favorite Games: Valorant and Forza Horizon 5<br><br>⚽ Favorite Sport: Football<br><br>📺 Love to watch anime, especially Jujutsu Kaisen (JJK). Big Gojo fan!<br><br>🏴‍☠️ Enjoy solving Capture the Flag challenges :^)<br><br>🤫 I am an introvert</p>
+<p align="left">Likes & Hobbies:<br><br>🎮 Favorite Games: Valorant and Forza Horizon 5<br><br>⚽ Favorite Sport: Football<br><br>📺 Love to watch anime, especially Jujutsu Kaisen (JJK). Big Gojo fan!<br><br>🏴‍☠️ Enjoy solving Capture the Flag challenges :^)<br><br>🤫 Introvert by Nature,Extrovert by situation :^)</p>
 
 ###
+
+<img align="right" height="150" src="https://media.giphy.com/media/Bpi7bVwAJ7Fyrlv3Tv/giphy.gif?cid=790b7611qgatzjcsuomdic3rm3nj01k99r0ohqyqxnz9si7c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
