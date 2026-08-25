@@ -88,7 +88,7 @@
   <a href="https://www.instagram.com/priyank_truestar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://priyank0777coding@gmail.com" target="_blank">
+  <a href="mailto:priyank0777coding@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/priyank_0777code" target="_blank">
@@ -110,20 +110,12 @@
   <img height="200" src="https://media.giphy.com/media/tTqHSXnVWwRl0NfwsX/giphy.gif?cid=790b7611qgatzjcsuomdic3rm3nj01k99r0ohqyqxnz9si7c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
+### 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyank0777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyank0777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">Likes & Hobbies:<br><br>🎮 Favorite Games: Valorant and Forza Horizon 5<br><br>⚽ Favorite Sport: Football<br><br>📺 Love to watch anime, especially Jujutsu Kaisen (JJK). Big Gojo fan!<br><br>🏴‍☠️ Enjoy solving Capture the Flag challenges :^)<br><br>🤫 Introvert by Nature,Extrovert by situation :^)</p>
+<p align="left">Likes & Hobbies:<br><br>🎮 Favorite Games: Valorant and Forza Horizon 5<br><br>⚽ Favorite Sport: Football<br><br>📺 Love to watch anime, especially Jujutsu Kaisen (JJK). Big Gojo fan!<br><br>🏴☠️ Enjoy solving Capture the Flag challenges :^)<br><br>🤫 Introvert by Nature,Extrovert by situation :^)</p>
 
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/Bpi7bVwAJ7Fyrlv3Tv/giphy.gif?cid=790b7611qgatzjcsuomdic3rm3nj01k99r0ohqyqxnz9si7c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
