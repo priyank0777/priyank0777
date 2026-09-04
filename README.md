@@ -112,7 +112,7 @@
 
 ### 
 
-<p align="left">Likes & Hobbies:<br><br>🎮 Favorite Games: Valorant and Forza Horizon 5<br><br>⚽ Favorite Sport: Football<br><br>📺 Love to watch anime, especially Jujutsu Kaisen (JJK). Big Gojo fan!<br><br>🏴☠️ Enjoy solving Capture the Flag challenges :^)<br><br>🤫 Introvert by Nature,Extrovert by situation :^)</p>
+<p align="left">Likes & Hobbies:<br><br>🎮 Favorite Games: Valorant and Forza Horizon 6<br><br>⚽ Favorite Sport: Football<br><br>📺 Love to watch anime, especially Jujutsu Kaisen (JJK). Big Gojo fan!<br><br>🏴☠️ Enjoy solving Capture the Flag challenges :^)<br><br>🤫 Introvert by Nature,Extrovert by situation :^)</p>
 
 ###
 
