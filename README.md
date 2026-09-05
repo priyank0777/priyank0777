@@ -1,5 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-<h2 align="left">About Me :^)<br><br>Hi 👋! My name is Priyank, and I'm a CyberSec enthusiast with a background in app development. After transitioning from app development, I am currently focusing on cybersecurity. I'm also working on an exciting ML-based mobile application.</h2>
+<h2 align="left">About Me :^)<br><br>Hi 👋! My name is Priyank, and I'm a CyberSec enthusiast with a background in app development. After transitioning from app development, I am currently focusing on cybersecurity.</h2>
 
 ###
 
